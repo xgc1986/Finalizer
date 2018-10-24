@@ -1,5 +1,5 @@
 {
-    "name":        "ocramius/finalizer",
+    "name":        "xgc1986/finalizer",
     "description": "A simple utility library that checks for PHP classes that should or shouldn't be marked as final",
     "type":        "library",
     "license":     "MIT",
